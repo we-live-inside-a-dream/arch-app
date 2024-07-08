@@ -131,7 +131,7 @@ nav .fa{
 
 /* Porjects */
 
-.projects{
+.services{
     width: 80%;
     margin: auto;
     text-align: center;
@@ -157,7 +157,7 @@ p{
     justify-content: space-between;
 }
 
-.project-col{
+.service-col{
     flex-basis: 31%;
     background: #fff3f3;
     border-radius: 10px;
@@ -173,7 +173,7 @@ h3{
     margin: 10px 0;
 }
 
-.project-col:hover{
+.service-col:hover{
     box-shadow: 0 0 20px 0px rgba(0,0,0,0.2)
 }
 
