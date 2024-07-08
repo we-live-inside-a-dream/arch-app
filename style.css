@@ -237,3 +237,34 @@ h3{
     opacity: 1;
 
 }
+
+/* Process */
+
+.processes{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.process-col{
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+}
+
+.process-col img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.process-col p{
+    padding: 0;
+}
+
+.process-col h3{
+    margin-top: 16px;
+    margin-bottom: 15px;
+    text-align: left;
+}
